@@ -1,5 +1,23 @@
+# Hi, I'm Gabriel Sahlin
 
-<!---
-GabeSahlin/GabeSahlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Senior at the University of Wisconsin - Stout**  
+🧠 Majoring in Applied Mathematics and Computer Science  
+🔧 Minoring in Computer Networking Systems and Design  
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+- C++, C, Java, SQL  
+- R, HTML/CSS, PHP  
+
+**Tools & IDEs:**  
+- Git, GitHub, VS Code, Eclipse
+
+---
+
+## 📈 Projects
+
+
+---
