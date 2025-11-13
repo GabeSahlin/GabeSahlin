@@ -20,9 +20,17 @@ Minoring in Computer Networking Systems and Design
 
 ---
 
-## 📈 Projects
+## Current Projects
 - FOMO
 - Camera Doorbell
 - Personal Server + Portfolio
 
----
+## Previous Projects
+
+### Machine Learning
+ - Cartoon Face Generation using a DCGAN
+ - Artifical Nueral Network vs Linear Regression
+ - Lasso/Ridge Regression to Optimize Regularization + Grid Search Optimized Linear Support Vector Classifier (SVC)
+ - Support Vector Classifier (SVC) using a Radial Basis Function (RBF) Kernel
+
+ --- 
